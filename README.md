@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Slatty @nexgenclassic
-- 👀 I’m a Computer Systems Architect and hobiest developer of allsorts, such as bespoke Arcade cabinet design, Alexa skills, VR Games and computer vision applications.
+- 👀 I’m a Computer Systems Architect and hobbyist developer of all sorts, such as bespoke Arcade cabinet design, Alexa skills, VR Games and computer vision applications.
 - 🌱 I’m currently focusing on completing my bespoke Arcade units
 - 📫 How to reach me via email at slatty@nextgenclassic.com
 
